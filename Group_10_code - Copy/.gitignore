@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+logs/
+data/chroma/
+*.egg-info/
+.DS_Store
+infrastructure/.terraform/
+infrastructure/*.tfstate
+infrastructure/*.tfstate.backup
+infrastructure/tfplan
+infrastructure/.terraform.lock.hcl
